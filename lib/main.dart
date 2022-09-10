@@ -5,4 +5,7 @@ import 'package:flutter_game_tutorial/utilits/global_vars.dart';
 
 import 'game_core/game.dart';
 
-void main() {}
+void main() {
+
+  123
+}
